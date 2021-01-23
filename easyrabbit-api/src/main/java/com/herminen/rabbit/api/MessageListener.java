@@ -4,7 +4,7 @@ import com.herminen.rabbit.entity.MessageContext;
 
 /**
  * Created with IntelliJ IDEA.
- * User: liuhai
+ * User: herminen
  * Date: 2021/1/23
  * Time: 18:05
  * Description: No Description

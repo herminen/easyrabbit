@@ -2,7 +2,7 @@ package com.herminen.rabbit.entity;
 
 /**
  * Created with IntelliJ IDEA.
- * User: liuhai
+ * User: herminen
  * Date: 2021/1/23
  * Time: 16:12
  * Description: No Description

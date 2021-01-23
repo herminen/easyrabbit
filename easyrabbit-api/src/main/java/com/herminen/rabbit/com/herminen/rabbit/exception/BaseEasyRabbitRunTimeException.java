@@ -2,7 +2,7 @@ package com.herminen.rabbit.com.herminen.rabbit.exception;
 
 /**
  * Created with IntelliJ IDEA.
- * User: liuhai
+ * User: herminen
  * Date: 2021/1/23
  * Time: 16:39
  * Description: No Description

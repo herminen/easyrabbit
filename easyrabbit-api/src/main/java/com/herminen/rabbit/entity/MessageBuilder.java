@@ -11,7 +11,7 @@ import static com.herminen.rabbit.entity.MessageType.CONFIRM;
 
 /**
  * Created with IntelliJ IDEA.
- * User: liuhai
+ * User: herminen
  * Date: 2021/1/23
  * Time: 16:18
  * Description: No Description
