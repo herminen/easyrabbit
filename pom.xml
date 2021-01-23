@@ -12,6 +12,7 @@
 
     <modules>
         <module>easyrabbit-api</module>
+        <module>easyrabbit-common</module>
     </modules>
 
 
